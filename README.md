@@ -27,12 +27,10 @@ My friend's python songs are in the email below.
 >
 >#3) 
 >if day = datetime(year=datetime.now(),month=12,day=25)
->
 >    my_loc = "qwertyuiopasdfjkl;zxcvnm,."[10:18] 
 >
 >#4) 
 >for x in range(0,3):
->
 >    print(' *'*60 +'\n' + '* '*60 + '\n' +' *'*60)
 >
 >```
