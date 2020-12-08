@@ -17,9 +17,9 @@ My friend's python songs are in the email below.
 >1) 
 >for year in history:
 
->    '''if santa not in year:
+>   ``` if santa not in year:
 
->        print(year)'''
+>        print(year)```
 >
 >2) 
 >while walls = 0 and temp < 32:
