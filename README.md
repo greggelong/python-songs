@@ -2,6 +2,10 @@
 a repo to hold some python songs
 These originated with the prompt from a friend:
 
+My python songs are in the code as .py files
+
+My friend's python songs are in the email below.
+
 Hey Greg,
 
 So I figured you'd appreciate this.  This SANS instructor, Mark Baggett, plays a game at the beginning of his lecture here: https://www.youtube.com/watch?v=sRsj3vBT1xk&t=1213s
